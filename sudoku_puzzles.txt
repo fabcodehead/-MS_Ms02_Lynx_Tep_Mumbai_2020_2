@@ -23,4 +23,8 @@ Sample Output:
 7 6 3 4 1 8 2 5 9
 
 
-hello there changes done on sudoku puzzles from branch adtnr
+
+The Sudoku Puzzle part of Milestone 2 is updated
+
+changes done on sudoku puzzles from branch adtnr
+
